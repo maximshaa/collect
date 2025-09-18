@@ -1,12 +1,12 @@
 {
-  "name": "mironova2056/collect",
-  "description": "Module for working with arrays ",
+  "name": "maximshaa/collect",
+  "description": "easy library",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Mary",
-      "email": "maria.mironova562006@gmial.com"
+      "name": "maximshaa",
+      "email": "starwwind@gmail.com"
     }
   ],
   "minimum-stability": "dev",
